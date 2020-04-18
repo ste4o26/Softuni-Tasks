@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ceec458-306f-4948-b7c3-77edefa3703e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCycIgbqKl4qIIiqSZwaNAI2Hn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="sort_by_name_and_age" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.Main" />
+      <module name="Encapsulation Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort_by_name_and_age.Main" />
+      <module name="Encapsulation Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort_by_name_and_age.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="person_encapsulation.Main" />
+      <module name="Encapsulation Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="person_encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ceec458-306f-4948-b7c3-77edefa3703e" name="Default Changelist" comment="" />
+      <created>1582460948981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582460948981</updated>
+      <workItem from="1582460951510" duration="3241000" />
+      <workItem from="1582464505596" duration="11000" />
+      <workItem from="1582464534326" duration="3005000" />
+      <workItem from="1582468244655" duration="3394000" />
+      <workItem from="1582577824676" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1582468532967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582468532967" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582481309816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582481309816" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582481309815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582481309815" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582481309815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582481309815" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582481309815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582481309815" />
+    <state width="1493" height="76" key="GridCell.Tab.1.bottom" timestamp="1582464082004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582464082004" />
+    <state width="1493" height="76" key="GridCell.Tab.1.center" timestamp="1582464082003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582464082003" />
+    <state width="1493" height="76" key="GridCell.Tab.1.left" timestamp="1582464082003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582464082003" />
+    <state width="1493" height="76" key="GridCell.Tab.1.right" timestamp="1582464082004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582464082004" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1582577909104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582577909104" />
+    <state x="209" y="34" key="new project wizard" timestamp="1582577944330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582577944330" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/person_encapsulation/Person.java</url>
+          <line>12</line>
+          <properties class="person_encapsulation.Person">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/person_encapsulation/Person.java</url>
+          <line>23</line>
+          <properties class="person_encapsulation.Person" method="setFirstName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/person_encapsulation/Person.java</url>
+          <line>34</line>
+          <properties class="person_encapsulation.Person" method="setLastName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/person_encapsulation/Person.java</url>
+          <line>45</line>
+          <properties class="person_encapsulation.Person" method="setAge">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/person_encapsulation/Person.java</url>
+          <line>56</line>
+          <properties class="person_encapsulation.Person" method="setSalary">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

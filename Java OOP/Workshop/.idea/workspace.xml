@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e66e5f0a-faa5-4f2c-a207-cc644f52b985" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zf9sPeHeZQ8KW2ehFqkO9nONB2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="domain.commands" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="domain.commands" />
+      <recent name="domain" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ Projects\softUni\Java OOP\Workshop\test\src" />
+      <recent name="D:\IntelliJ Projects\softUni\Java OOP\Workshop\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ConvertCommandTest.should_Convert_Money_From_GBP_To_BGN_Using_StubbedExchangeRate">
+    <configuration name="ConvertCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain.commands" />
+      <option name="MAIN_CLASS_NAME" value="domain.commands.ConvertCommandTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertCommandTest.shouldConvertMoneyToAnotherCurrencyUsingStubbedExchangeRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain.commands" />
+      <option name="MAIN_CLASS_NAME" value="domain.commands.ConvertCommandTest" />
+      <option name="METHOD_NAME" value="shouldConvertMoneyToAnotherCurrencyUsingStubbedExchangeRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertCommandTest.should_Convert_Money_From_BGN_To_GBP_Using_StubbedExchangeRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain.commands" />
+      <option name="MAIN_CLASS_NAME" value="domain.commands.ConvertCommandTest" />
+      <option name="METHOD_NAME" value="should_Convert_Money_From_BGN_To_GBP_Using_StubbedExchangeRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertCommandTest.should_Convert_Money_From_Bgn_To_USD_Using_StubbedExchangeRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain.commands" />
+      <option name="MAIN_CLASS_NAME" value="domain.commands.ConvertCommandTest" />
+      <option name="METHOD_NAME" value="should_Convert_Money_From_Bgn_To_USD_Using_StubbedExchangeRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertCommandTest.should_Convert_Money_From_GBP_To_BGN_Using_StubbedExchangeRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domain.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domain.commands" />
+      <option name="MAIN_CLASS_NAME" value="domain.commands.ConvertCommandTest" />
+      <option name="METHOD_NAME" value="should_Convert_Money_From_GBP_To_BGN_Using_StubbedExchangeRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConvertCommandTest.should_Convert_Money_From_GBP_To_BGN_Using_StubbedExchangeRate" />
+        <item itemvalue="JUnit.ConvertCommandTest" />
+        <item itemvalue="JUnit.ConvertCommandTest.should_Convert_Money_From_BGN_To_GBP_Using_StubbedExchangeRate" />
+        <item itemvalue="JUnit.ConvertCommandTest.should_Convert_Money_From_Bgn_To_USD_Using_StubbedExchangeRate" />
+        <item itemvalue="JUnit.ConvertCommandTest.shouldConvertMoneyToAnotherCurrencyUsingStubbedExchangeRate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e66e5f0a-faa5-4f2c-a207-cc644f52b985" name="Default Changelist" comment="" />
+      <created>1585219487339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585219487339</updated>
+      <workItem from="1585219490427" duration="29268000" />
+      <workItem from="1585306633676" duration="97000" />
+      <workItem from="1585398352405" duration="10323000" />
+      <workItem from="1585495535181" duration="392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1585264775468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585264775468" />
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585399828128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585399828128" />
+    <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585222310766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1585222310766" />
+    <state x="428" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585261235252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585261235252" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585264534668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585264534668" />
+    <state x="549" y="155" key="FileChooserDialogImpl" timestamp="1585411313288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585411313288" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585411314774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585411314774" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585411314774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585411314774" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585411314774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585411314774" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585411314774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585411314774" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1585402556456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585402556456" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1585306658921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585306658921" />
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585402446606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1585402446606" />
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585399977114">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1585399977114" />
+    <state x="499" y="169" key="extract.method.dialog" timestamp="1585258504441">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="169" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1585258504441" />
+    <state x="209" y="34" key="new project wizard" timestamp="1585306728535">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585306728535" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585407738765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585407738765" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585401191695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585401191695" />
+  </component>
+</project>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eb3daba-323b-4922-a44d-b31c4038ae06" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WvYpAN3DYVwc4hXMDTWNNTRY5F" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Google.Main" />
+      <module name="Difining Classes Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RawData.Main" />
+      <module name="Difining Classes Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RawData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarSalesman2.Main" />
+      <module name="Difining Classes Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CarSalesman2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pokemon_Trainer.Main" />
+      <module name="Difining Classes Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pokemon_Trainer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pokemon_Trainer2.Main" />
+      <module name="Difining Classes Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pokemon_Trainer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb3daba-323b-4922-a44d-b31c4038ae06" name="Default Changelist" comment="" />
+      <created>1580031715541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580031715541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Company_Roster2/Main.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((java.util.ArrayList)((Department)((HashMap.Node)((HashMap)departmentsMap).entrySet().toArray()[0]).getValue()).employees).get(0)" custom="java.util.ArrayList,Company_Roster2.Department,java.util.HashMap.Node,java.util.HashMap" />
+        <watch expression="((java.util.ArrayList)((Department)((HashMap.Node)((HashMap)departmentsMap).entrySet().toArray()[0]).getValue()).employees).get(1)" custom="java.util.ArrayList,Company_Roster2.Department,java.util.HashMap.Node,java.util.HashMap" />
+        <watch expression="((java.util.ArrayList)((Department)((HashMap.Node)((HashMap)departmentsMap).entrySet().toArray()[0]).getValue()).employees).get(1)" language="JAVA" custom="java.util.ArrayList,Company_Roster2.Department,java.util.HashMap.Node,java.util.HashMap" />
+        <watch expression="trainers.toArray()[2]" />
+        <watch expression="trainers.toArray()[2]" language="JAVA" />
+        <watch expression="((LinkedHashMap)trainers).entrySet().toArray()[1]" custom="java.util.LinkedHashMap" />
+        <watch expression="((Trainer)((LinkedHashMap.Entry)((LinkedHashMap)trainers).entrySet().toArray()[0]).getValue()).pokemons" custom="java.util.LinkedHashMap.Entry,java.util.LinkedHashMap,Pokemon_Trainer.Trainer" />
+        <watch expression="trainers" language="JAVA" />
+        <watch expression="trainers" language="JAVA" />
+        <watch expression="((LinkedHashMap.Entry)((LinkedHashMap)trainers).entrySet().toArray()[2]).getValue()" custom="java.util.LinkedHashMap.Entry,java.util.LinkedHashMap" />
+        <watch expression="((LinkedHashMap)people).entrySet().toArray()[0]" custom="java.util.LinkedHashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

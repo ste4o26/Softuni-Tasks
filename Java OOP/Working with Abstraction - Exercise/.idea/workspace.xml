@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0a09934-f1eb-4fd8-8f2e-be981ed4252b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJfJZhmS5whmULWWQvsjZaNceT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="card_rank.Main" />
+      <module name="Working with Abstraction - Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="card_rank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cards_with_power.Main" />
+      <module name="Working with Abstraction - Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cards_with_power.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="traffic_lights.Main" />
+      <module name="Working with Abstraction - Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="traffic_lights.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="card_suit.Main" />
+      <module name="Working with Abstraction - Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="card_suit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a09934-f1eb-4fd8-8f2e-be981ed4252b" name="Default Changelist" comment="" />
+      <created>1582665546699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582665546699</updated>
+      <workItem from="1582665996881" duration="7036000" />
+      <workItem from="1582749281776" duration="5081000" />
+      <workItem from="1582837152437" duration="2539000" />
+      <workItem from="1582840730619" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Inspections" timestamp="1582666473962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1582666473962" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1582669967977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582669967977" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582749306739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582749306739" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582755870288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582755870288" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582755870288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582755870288" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582755870288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582755870288" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582755870288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582755870288" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582673068227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582673068227" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582673068227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582673068227" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582673068227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582673068227" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582673068227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582673068227" />
+    <state x="584" y="347" key="ReplaceDuplicatesPrompt" timestamp="1582840510838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="347" key="ReplaceDuplicatesPrompt/0.0.1536.824@0.0.1536.824" timestamp="1582840510838" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1582840791372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582840791372" />
+    <state x="666" y="43" width="538" height="495" key="extract.method.dialog" timestamp="1582840501489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="666" y="43" width="538" height="495" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1582840501489" />
+    <state x="209" y="34" key="new project wizard" timestamp="1582840825545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582840825545" />
+  </component>
+</project>
