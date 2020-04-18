@@ -1,0 +1,101 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007fd9aa97168f, pid=15299, tid=0x00007fd98d2dd700
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_201-b09) (build 1.8.0_201-b09)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.201-b09 mixed mode linux-amd64 compressed oops)
+# Problematic frame:
+# C  [libjdwp.so+0x2668f]  debugMonitorWait+0x1f
+#
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007fd9a4193800):  JavaThread "JDWP Event Helper Thread" daemon [_thread_in_native, id=15319, stack(0x00007fd98d1dd000,0x00007fd98d2de000)]
+
+siginfo: si_signo: 11 (SIGSEGV), si_code: 1 (SEGV_MAPERR), si_addr: 0x0000000000000000
+
+Registers:
+RAX=0x00007fd9aab85760, RBX=0x00007fd9aab85b40, RCX=0x0000000000000000, RDX=0xffffffffffffffff
+RSP=0x00007fd98d2dcd10, RBP=0x00007fd98d2dcd20, RSI=0x00007fd9a4193090, RDI=0x0000000000000000
+R8 =0x0000000000000000, R9 =0x0000000000000000, R10=0x0000000000000000, R11=0x0000000000000206
+R12=0x00007fd9aab85f00, R13=0x0000000000000000, R14=0x0000000000000000, R15=0x0000000000000078
+RIP=0x00007fd9aa97168f, EFLAGS=0x0000000000010246, CSGSFS=0x002b000000000033, ERR=0x0000000000000004
+  TRAPNO=0x000000000000000e
+
+Top of Stack: (sp=0x00007fd98d2dcd10)
+0x00007fd98d2dcd10:   00007fd9aab85b40 00007fd9aab85f00
+0x00007fd98d2dcd20:   00007fd98d2dcd70 00007fd9aa964214
+0x00007fd98d2dcd30:   00007fd9a4193800 00007fd9a41939f8
+0x00007fd98d2dcd40:   00007fd98d2dce30 00007fd9a4193800
+0x00007fd98d2dcd50:   00007fd9ac536f44 00007fd9ac531f8c
+0x00007fd98d2dcd60:   00007fd9a4193f30 00007fd9a4193ee0
+0x00007fd98d2dcd70:   00007fd98d2dcda0 00007fd9abcea7d5
+0x00007fd98d2dcd80:   00007fd98d2dcda0 00007fd9a4193800
+0x00007fd98d2dcd90:   00007fd98d2dcdc0 00007fd9a4194308
+0x00007fd98d2dcda0:   00007fd98d2dce30 00007fd9abfe5b6b
+0x00007fd98d2dcdb0:   00007fd9a4194308 00000000000003d8
+0x00007fd98d2dcdc0:   00007fd9a4193800 00007fd9a4194310
+0x00007fd98d2dcdd0:   00007fd9a4194350 00007fd9a4194360
+0x00007fd98d2dcde0:   00007fd9a4194438 00000000000000d8
+0x00007fd98d2dcdf0:   00007fd9a4194570 00007fd9a4194570
+0x00007fd98d2dce00:   0000000000000000 00007fd9a4193800
+0x00007fd98d2dce10:   0000000000003000 00007fd98d1dd000
+0x00007fd98d2dce20:   0000000000000003 00007fd9ad1858f0
+0x00007fd98d2dce30:   00007fd98d2dceb0 00007fd9abfe5e71
+0x00007fd98d2dce40:   0000000000000000 00007fd9a4193800
+0x00007fd98d2dce50:   00007fd98d2dce00 0000000000000000
+0x00007fd98d2dce60:   0000000000000000 00007fd9a41950d0
+0x00007fd98d2dce70:   00007fd98d2dceb0 00007fd900e3541e
+0x00007fd98d2dce80:   00007fd98d2dceb0 00007fd9a41950d0
+0x00007fd98d2dce90:   00007fd9a4194fe0 00007fd9a4193800
+0x00007fd98d2dcea0:   00007fd9a4193800 00007fd9ad1858f0
+0x00007fd98d2dceb0:   00007fd98d2dcef0 00007fd9abe77922
+0x00007fd98d2dcec0:   0000000000000000 0000000000000000
+0x00007fd98d2dced0:   00007fd98d2dcfc0 0000000000000000
+0x00007fd98d2dcee0:   00007fd9a4193800 00007fd9ad1858f0
+0x00007fd98d2dcef0:   0000000000000000 00007fd9acd676db
+0x00007fd98d2dcf00:   0000000000000000 00007fd98d2dd700 
+
+Instructions: (pc=0x00007fd9aa97168f)
+0x00007fd9aa97166f:   00 55 48 89 fe 48 c7 c2 ff ff ff ff 48 89 e5 41
+0x00007fd9aa97167f:   54 4c 8d 25 79 48 21 00 53 49 8b 04 24 48 8b 38
+0x00007fd9aa97168f:   48 8b 07 ff 90 10 01 00 00 83 f8 34 0f 84 8f 00
+0x00007fd9aa97169f:   00 00 83 f8 70 89 c3 74 68 85 db 74 71 89 df 4c 
+
+Register to memory mapping:
+
+RAX=0x00007fd9aab85760: <offset 0x23a760> in /usr/lib/jvm/java-8-oracle/jre/lib/amd64/libjdwp.so at 0x00007fd9aa94b000
+RBX=0x00007fd9aab85b40: <offset 0x23ab40> in /usr/lib/jvm/java-8-oracle/jre/lib/amd64/libjdwp.so at 0x00007fd9aa94b000
+RCX=0x0000000000000000 is an unknown value
+RDX=0xffffffffffffffff is an unknown value
+RSP=0x00007fd98d2dcd10 is pointing into the stack for thread: 0x00007fd9a4193800
+RBP=0x00007fd98d2dcd20 is pointing into the stack for thread: 0x00007fd9a4193800
+RSI=0x00007fd9a4193090 is an unknown value
+RDI=0x0000000000000000 is an unknown value
+R8 =0x0000000000000000 is an unknown value
+R9 =0x0000000000000000 is an unknown value
+R10=0x0000000000000000 is an unknown value
+R11=0x0000000000000206 is an unknown value
+R12=0x00007fd9aab85f00: <offset 0x23af00> in /usr/lib/jvm/java-8-oracle/jre/lib/amd64/libjdwp.so at 0x00007fd9aa94b000
+R13=0x0000000000000000 is an unknown value
+R14=0x0000000000000000 is an unknown value
+R15=0x0000000000000078 is an unknown value
+
+
+Stack: [0x00007fd98d1dd000,0x00007fd98d2de000],  sp=0x00007fd98d2dcd10,  free space=1023k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [libjdwp.so+0x2668f]  debugMonitorWait+0x1f
+C  [libjdwp.so+0x19214]  commandLoop+0x74
+V  [libjvm.so+0x7807d5]  JvmtiAgentThread::start_function_wrapper(JavaThread*, Thread*)+0xb5
+V  [libjvm.so+0xa7bb6b]  JavaThread::thread_main_inner()+0xdb
+V  [libjvm.so+0xa7be71]  JavaThread::run()+0x2d1
+V  [libjvm.so+0x90d922]  java_start(Thread*)+0x102
+C  [libpthread.so.0+0x76db]
