@@ -1,0 +1,16 @@
+{
+  "name": "js_app_exam_05_april_2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ste4o26",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "4.7.6",
+    "jquery": "3.5.1",
+    "sammy": "0.7.6"
+  }
+}

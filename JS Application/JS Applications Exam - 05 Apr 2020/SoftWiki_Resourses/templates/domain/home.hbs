@@ -1,0 +1,50 @@
+{{!-- {{>header}}
+<div class="content">
+    {{#if isLoggedIn}}
+
+    {{#each categories}}
+
+    {{>category}}
+
+    {{/each}}
+
+    {{/if}}
+</div>
+{{>footer}} --}}
+
+{{>header}}
+<div class="content">
+    <section class="js">
+        <h2>JavaScript</h2>
+        <div class="articles">
+            {{#each jsArticles}}
+            {{>article}}
+            {{/each}}
+        </div>
+    </section>
+    <section class="CSharp">
+        <h2>C#</h2>
+        <div class="articles">
+            {{#each cSharpArticles}}
+            {{>article}}
+            {{/each}}
+        </div>
+    </section>
+    <section class="Java">
+        <h2>Java</h2>
+        <div class="articles">
+            {{#each javaArticles}}
+            {{>article}}
+            {{/each}}
+        </div>
+    </section>
+    <section class="Pyton">
+        <h2>Pyton</h2>
+        <div class="articles">
+            {{#each pytonArticles}}
+            {{>article}}
+            {{/each}}
+        </div>
+    </section>
+</div>
+{{>footer}}

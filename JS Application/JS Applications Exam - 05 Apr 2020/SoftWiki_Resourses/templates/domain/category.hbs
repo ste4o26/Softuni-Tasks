@@ -1,0 +1,12 @@
+<section>
+    <h2>{{category}}</h2>
+    {{#each articles}}
+
+    {{>article}}
+
+    {{else}}
+
+    <h3 class="no-articles">No articles yet</h3>
+
+    {{/each}}
+</section>
