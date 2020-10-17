@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Students</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>    
+    <table id="results">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Faculty Number</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <div id="loader">Loading...</div>
+
+    <div id="create-student">
+        <form>
+            <table>
+                <thead>
+                    <tr>
+                        <th>     
+                            <label for="first-name">First Name</label>
+                        </th>
+                        <th>      
+                            <label for="last-name">Last Name</label>
+                        </th>
+                        <th>      
+                            <label for="faculty-number">Faculty Number</label>
+                        </th>
+                        <th>    
+                            <label for="grade">Grade</label>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <input id="first-name" type="text">
+                        </td>
+                        <td>
+                            <input id="last-name" type="text">
+                        </td>
+                        <td>
+                            <input id="faculty-number" type="text">
+                        </td>
+                        <td>
+                            <input id="grade" type="number">
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <button id="crete-student" type="submit">Create</button>
+            
+        </form>
+    </div>
+    <script type="module" src="./app.js"></script>
+</body>
+
+</html>
