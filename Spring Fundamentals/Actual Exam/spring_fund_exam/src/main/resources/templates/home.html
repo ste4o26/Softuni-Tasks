@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" >
+<head>
+    <th:block th:include="~{fragments/head}"></th:block>
+</head>
+<body>
+<header>
+    <th:block th:include="~{fragments/nav}"></th:block>
+</header>
+<main class="p-5 align-content-center bg-blur ">
+    <h2 class="text-light border-bottom" th:text="|Total sold copies
+        of all albums: ${totalCopies == null ? 0 : totalCopies}|"></h2>
+    <div class="row">
+        <div th:each="album : ${allAlbums}" th:object="${album}" class="col-md-3">
+            <div  class="card mb-4 box-shadow">
+                <img th:src="*{imageUrl}" class="card-img-top" alt="Thumbnail [100%x225]"
+                     data-holder-rendered="true"
+                     style="height: 225px; width: 100%; display: block;">
+                <div class="card-body">
+                    <div class="text-center">
+                        <p class="card-text border-bottom " th:text="|Name: *{name}|"></p>
+                        <p class="card-text border-bottom " th:text="|Artist: *{#strings.capitalize(artist)}|"></p>
+                        <p class="card-text border-bottom " th:text="|Genre: *{#strings.capitalize(genre)}|"></p>
+                        <p class="card-text border-bottom " th:text="|Price: *{price}|"></p>
+                        <p class="card-text border-bottom" th:text="|Release Date: *{releaseDate}|"></p>
+                    </div>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <div class="btn-group">
+                            <a th:href="@{/albums/delete/{id}(id = ${album.id})}" type="button" class="btn btn-sm btn-outline-secondary" >Delete</a>
+                        </div>
+                        <small class="text-muted" th:text="|*{copies} copies|"></small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<footer class="footer bg-blur">
+    <th:block th:include="~{fragments/footer}"></th:block>
+</footer>
+</body>
+</html>
+
+<!--th:href="@{/albums/delete/{id}(id = ${album.id})}"-->
